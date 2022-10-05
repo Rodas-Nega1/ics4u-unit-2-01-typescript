@@ -1,7 +1,7 @@
 /**
  * The program uses the RodasStack
  *
- * By:      Jackson Naufal
+ * By:      Rodas Nega
  * Version: 1.0
  * Since:   2022-10-04
  */
